@@ -27,3 +27,4 @@
     + #### 캐릭터가 지면에 있을 때 스페이스 바를 눌러 점프할 수 있고, 공중에서 스페이스 바를 한번 더 눌러 더블 점프를 할 수 있다. 점프와 더블점프를 이용해 장애물을 피하며 도착지점까지 가는 것이 목표이다.
   + ### 시연 영상
     + #### [![Video Label](http://img.youtube.com/vi/IzKfuOor6l0/0.jpg)](https://youtu.be/IzKfuOor6l0)
+    + #### {% Youtube.html id="IzKfuOor6l0" %}  
