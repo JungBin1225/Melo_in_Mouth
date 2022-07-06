@@ -6,4 +6,4 @@
 + ## 게임 개요
   + ### 플랫폼
   + ### 장르
-  + ### 개발에 사용한 엔진 및 언어 - <img src="https://img.shields.io/badge/Unity-E8E8E8?style=flat&logo=Unityt&logoColor=white"/>
+  + ### 개발에 사용한 엔진 및 언어 - <img src="https://img.shields.io/badge/Unity-E8E8E8?style=flat&logo=Unityt&logoColor=black"/>
