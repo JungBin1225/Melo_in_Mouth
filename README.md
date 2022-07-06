@@ -9,4 +9,4 @@
   + ### 장르
     + #### 횡스크롤 러닝 게임
   + ### 개발에 사용한 엔진 및 언어 
-    + <img alt="Eclipse IDE" src ="https://img.shields.io/badge/Eclipse IDE-2C2255.svg?&style=for-the-badge&logo=EclipseIDE&logoColor=white"/>
+    + <img alt="JAVA" src ="https://img.shields.io/badge/JAVA-E8E8E8.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/> <img alt="Eclipse IDE" src ="https://img.shields.io/badge/Eclipse IDE-2C2255.svg?&style=for-the-badge&logo=EclipseIDE&logoColor=white"/>
