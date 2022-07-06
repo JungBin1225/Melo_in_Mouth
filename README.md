@@ -5,7 +5,8 @@
 
 + ## 게임 개요
   + ### 플랫폼
+    + #### PC
   + ### 장르
+    + #### 횡스크롤 러닝 게임
   + ### 개발에 사용한 엔진 및 언어 
-    + <img alt="Unity" src ="https://img.shields.io/badge/Unity-E8E8E8.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
-  + 
+    + <img alt="Eclipse IDE" src ="https://img.shields.io/badge/Eclipse IDE-2C2255.svg?&style=for-the-badge&logo=EclipseIDE&logoColor=white"/>
